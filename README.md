@@ -1,6 +1,7 @@
 # carpenter
 一些踅踅念  
-设计模式实现(design patterns) 基于java 实现。
+设计模式实现(design patterns) 
+基于java 实现。
 
 ##  在使用某一个模式之前，先思考一下。  
 
