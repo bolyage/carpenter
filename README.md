@@ -1,7 +1,9 @@
 # carpenter
 一些踅踅念  
-设计模式实现(design patterns) 
-基于java 实现。
+设计模式实现(design patterns)  基于java 实现。  基本的模式 《Head first 设计模式》 这本书基本的有。推荐大家看看。
+
+
+主要怕自己忘了。。 写下来。。
 
 ##  在使用某一个模式之前，先思考一下。  
 
